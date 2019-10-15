@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Horoscope</string>
+    <string name="rashi">Enter Your Sunsign</string>
+    <string name="getThat">Get Your Horoscope</string>
+</resources>
